@@ -1,0 +1,1 @@
+Place this file on qmk_firmware\keyboards\handwired\dactyl_manuform and configure the header file
